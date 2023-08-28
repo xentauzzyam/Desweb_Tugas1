@@ -464,3 +464,24 @@ body {
    margin: 0;
    padding: 2px;
  }
+
+ @media (max-width: 768px) {
+  .content-wrapper {
+  flex-direction: column;
+  }
+  .content-column {
+  width: 100%;
+  }
+  .container {
+  flex-direction: column;
+  }
+  .nav {
+  margin-right: 0;
+  margin-bottom: 20px;
+  }
+  }
+  @media (min-width: 769px) and (max-width: 1024px) {
+  .ul-navbar li {
+  padding: 8px 15px;
+  }
+  }
