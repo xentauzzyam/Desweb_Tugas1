@@ -15,6 +15,7 @@
    </ul>
 </div>
 <!-- END NAV -->
+
 <!-- BEGIN CONTENT WRAPPER -->
 <div id="content-wrapper">
    <!-- BEGIN MAIN -->
@@ -22,7 +23,7 @@
      <div id="headlines">
        <div id="main-headline">
          <h2 class="heading">Featured Story</h2>
-         <img src="img/blank.jpg" alt="" />
+         <img src="img/wayne.jpg" alt="" />
          <h1><a href="#">10 Reaksi Netizen Dukungan untuk Ernando Ari Setelah Final Piala AFF U-23: Terima Kasih Sudah Berjuang, Hero!</a></h1>
          <p class="author">Wiwig Prayugi | <span>08.27.2023</span></p>
          <p>Bola.com, Jakarta - Ernando Ari Sutaryadi menjalani malam yang unik di final Piala AFF U-23 2023, Sabtu (26/2023) malam WIB. Kiper milik Persebaya Surabaya itu tampil heroik pada waktu normal pertandingan..</p>
@@ -49,12 +50,8 @@
          <p class="author">Radifa Arsa | <span>08.27.2023</span></p>
          <p>Bola.com, Semarang - Kapten Timnas Indonesia U-23, Alfeandra Dewangga, menyampaikan kalimat yang menyentuh seusai timnya kalah dari Vietnam U-23 gagal menjuarai Piala AFF U-23 2023.</p>
          <p><a href="#">Full article &raquo;</a></p>
-         <h3><a href="#">Salut! Shin Tae-yong Bela Ernando Ari yang Gagal Eksekusi Penalti Timnas Indonesia U-23: Dia Sangat Percaya Diri dan Hebat</a></h3>
-         <p class="author">Muhammad Adi Yaksa | <span>08.27.2023</span></p>
-         <p>Bola.com, Rayong - Pelatih Timnas Indonesia U-23, Shin Tae-yong, pasang badan terhadap kegagalan Ernando Ari Sutaryadi mengeksekusi penalti ketika melawan Timnas Vietnam U-23 dalam babak Piala AFF U-23 2023.</p>
-         <p><a href="#">Full article &raquo;</a></p>
          <h2 class="heading">Podcast</h2>
-         <img src="img_tugas/microphone.png" alt="" class="righty" />
+         <img src="img/microphone.png" alt="" class="righty" />
          <h4><a href="#">Ngobrol Bareng STY</a></h4>
          <p class="author">Muhammad Adi Yaksa" | <span>08.27.2023</span></p>
          <p>Ut sed arcu nulla. In eget lectus vitae purus volutpat consectetur suscipit ut justo.</p>
@@ -63,6 +60,46 @@
      </div>
    </div>
 <!-- END MAIN -->
+
+<!-- BEGIN SIDEBARS -->
+<div id="sidebars">
+  <!-- BEGIN ADS -->
+  <a href="#"><img src="img/side-ad.png" alt="" class="ad" /></a> <a href="#"><img src="img/side-ad.png" alt="" class="ad-right" /></a> <a href="#"><img src="img/side-ad.png" alt="" class="ad" /></a> <a href="#"><img src="img/side-ad.png" alt="" class="ad-right" /></a>
+  <!-- END ADS -->
+  <h2 class="heading-blue">Sports Headlines</h2>
+  <img src="img/wayne.jpg" alt="" />
+  <h3><a href="#">Lorem ipsum dolor sit amet, consectetur adipiscing elit</a></h3>
+  <p>Ut sed arcu nulla. In eget lectus vitae purus volutpat consectetur suscipit ut justo.</p>
+  <p><a href="#">More headlines &raquo;</a></p>
+  <h2 class="heading">Celebrity Sightings</h2>
+  <img src="img/casey.jpg" alt="" class="ad" /> <img src="img/hobo.jpg" alt="" class="ad-right" />
+  <h2 class="heading">In the Community</h2>
+  <h4><a href="#">Lorem ipsum dolor sit amet eget, consectetur adipiscing elit</a></h4>
+  <h4><a href="#">Lorem ipsum dolor sit amet eget, consectetur adipiscing elit</a></h4>
+</div>
+<!-- END SIDEBARS -->
+</div>
+
+<!-- END CONTENT WRAPPER-->
+<!-- BEGIN EXTRAS -->
+<div id="extras">
+  <div id="recommended">
+    <h2 class="heading">Recommended Stories</h2>
+    <ul>
+      <li><a href="#">Lorem ipsum dolor sit amet, consectetur adipiscing elit &raquo;</a></li>
+      <li><a href="#">Lorem ipsum dolor sit amet, consectetur adipiscing elit &raquo;</a></li>
+      <li><a href="#">Lorem ipsum dolor sit amet, consectetur adipiscing elit &raquo;</a></li>
+      <li class="last"><a href="#">Lorem ipsum dolor sit amet, consectetur adipiscing elit &raquo;</a></li>
+    </ul>
+  </div>
+  <div id="programs">
+    <h2 class="heading">What's On Tonight</h2>
+    <img src="img/rick.jpg" alt="" /> <img src="img/cbc.png" alt="" /> </div>
+  <div id="cartoon">
+    <h2 class="heading">Humour</h2>
+    <img src="img/cartoon.jpg" alt="" /> </div>
+</div>
+<!-- END EXTRAS -->
 
  <!-- Konten footer 1 -->
  <div id="footer">
